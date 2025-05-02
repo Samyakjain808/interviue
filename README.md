@@ -30,3 +30,17 @@
 
 ```bash
 npm install
+
+
+### Set Up Environment Variables
+
+Create a `.env` file in the root directory and add the following variables:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+CONVEX_DEPLOYMENT=your_convex_deployment_url
+NEXT_PUBLIC_CONVEX_URL=your_convex_public_url
+NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
+STREAM_SECRET=your_stream_secret
+
