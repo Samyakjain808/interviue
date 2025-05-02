@@ -43,4 +43,8 @@ CONVEX_DEPLOYMENT=your_convex_deployment_url
 NEXT_PUBLIC_CONVEX_URL=your_convex_public_url
 NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
 STREAM_SECRET=your_stream_secret
-
+```
+### Run Development Server
+```bash
+npm run dev
+```
