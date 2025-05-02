@@ -24,3 +24,9 @@
 - **Styling**: Tailwind CSS, Shadcn UI
 
 ---
+### Installation
+
+1. **Install dependencies:**
+
+```bash
+npm install
